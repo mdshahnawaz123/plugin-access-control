@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "Mohdshah@123",
+    "active": true,
+    "expires": "2030-09-30"
+  },
+  {
+    "username": "test",
+    "password": "test123",
+    "active": true,
+    "expires": "2025-08-31"
+  },
+  {
+    "username": "blockeduser",
+    "password": "blocked",
+    "active": false,
+    "expires": "2025-09-30"
+  }
+]
