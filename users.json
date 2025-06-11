@@ -10,7 +10,7 @@
     "password": "test123",
     "active": true,
     "expires": "2025-08-31"
-  }
+  },
   {
     "username": "user",
     "password": "user123",
