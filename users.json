@@ -16,5 +16,11 @@
     "password": "user123",
     "active": true,
     "expires": "2025-08-31"
+  },
+  {
+    "username": "SSH",
+    "password": "SSH123",
+    "active": true,
+    "expires": "2026-08-31"
   }
 ]
