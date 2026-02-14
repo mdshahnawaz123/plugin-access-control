@@ -8,25 +8,25 @@
   {
     "username": "test",
     "password": "test123",
-    "active": true,
+    "active": false,
     "expires": "2025-08-31"
   },
   {
     "username": "user",
     "password": "user123",
-    "active": true,
+    "active": false,
     "expires": "2026-01-31"
   },
   {
     "username": "SSH",
     "password": "SSH123",
-    "active": true,
+    "active": false,
     "expires": "2026-08-31"
   },
   {
     "username": "demo",
     "password": "demo123",
-    "active": true,
+    "active": false,
     "expires": "2026-08-31"
   }
 ]
