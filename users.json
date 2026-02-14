@@ -2,7 +2,7 @@
   {
     "username": "admin",
     "password": "Mohdshah@123",
-    "active": true,
+    "active": false,
     "expires": "3030-01-01"
   },
   {
