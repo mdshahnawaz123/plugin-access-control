@@ -32,7 +32,7 @@
   {
     "username": "2MR",
     "password": "2MR@123",
-    "active": false,
+    "active": true,
     "expires": "2026-08-31"
   },
 ]
