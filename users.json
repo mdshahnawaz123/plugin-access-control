@@ -29,4 +29,10 @@
     "active": true,
     "expires": "2026-08-31"
   }
+  {
+    "username": "2MR",
+    "password": "2MR@123",
+    "active": true,
+    "expires": "2026-08-31"
+  },
 ]
