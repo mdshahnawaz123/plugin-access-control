@@ -3,8 +3,8 @@
     "Username": "admin",
     "Password": "Mohdshah@123",
     "Active": true,
-    "Plan": "TRIAL",
-    "Expires": "3030-01-01"
+    "Plan": "PRO",
+    "Expires": "3030-01-01",
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
@@ -14,7 +14,7 @@
     "Password": "test123",
     "Active": false,
     "Plan": "TRIAL",
-    "Expires": "2025-08-31"
+    "Expires": "2025-08-31",
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
@@ -24,7 +24,7 @@
     "Password": "user123",
     "Active": false,
     "Plan": "TRIAL",
-    "Expires": "2026-01-31"
+    "Expires": "2026-01-31",
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
@@ -34,7 +34,7 @@
     "Password": "SSH123",
     "Active": false,
     "Plan": "TRIAL",
-    "Expires": "2026-08-31"
+    "Expires": "2026-08-31",
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
@@ -44,17 +44,17 @@
     "Password": "demo123",
     "Active": false,
     "Plan": "TRIAL",
-    "Expires": "2026-08-31"
+    "Expires": "2026-08-31",
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
-  }
+  },
   {
     "Username": "2MR",
     "Password": "2MR@123",
     "Active": true,
     "Plan": "TRIAL",
-    "Expires": "2026-08-31"
+    "Expires": "2026-08-31",
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
@@ -68,14 +68,5 @@
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
-  },
-  {
-    "Username": "2MR",
-    "Password": "2MR@123",
-    "Active": true,
-    "Plan": "TRIAL",
-    "Expires": "2026-03-01",
-    "MaxMachines": 1,
-    "Machines": []
   }
 ]
