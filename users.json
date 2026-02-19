@@ -1,39 +1,63 @@
 [
   {
-    "username": "admin",
-    "password": "Mohdshah@123",
-    "active": true,
-    "expires": "3030-01-01"
+    "Username": "admin",
+    "Password": "Mohdshah@123",
+    "Active": true,
+    "Plan": "TRIAL",
+    "Expires": "3030-01-01"
+    "MaxMachines": 1,
+    "Machines": [],
+    "Notes": "Dubai client"
   },
   {
-    "username": "test",
-    "password": "test123",
-    "active": false,
-    "expires": "2025-08-31"
+    "Username": "test",
+    "Password": "test123",
+    "Active": false,
+    "Plan": "TRIAL",
+    "Expires": "2025-08-31"
+    "MaxMachines": 1,
+    "Machines": [],
+    "Notes": "Dubai client"
   },
   {
-    "username": "user",
-    "password": "user123",
-    "active": false,
-    "expires": "2026-01-31"
+    "Username": "user",
+    "Password": "user123",
+    "Active": false,
+    "Plan": "TRIAL",
+    "Expires": "2026-01-31"
+    "MaxMachines": 1,
+    "Machines": [],
+    "Notes": "Dubai client"
   },
   {
-    "username": "SSH",
-    "password": "SSH123",
-    "active": false,
-    "expires": "2026-08-31"
+    "Username": "SSH",
+    "Password": "SSH123",
+    "Active": false,
+    "Plan": "TRIAL",
+    "Expires": "2026-08-31"
+    "MaxMachines": 1,
+    "Machines": [],
+    "Notes": "Dubai client"
   },
   {
-    "username": "demo",
-    "password": "demo123",
-    "active": false,
-    "expires": "2026-08-31"
+    "Username": "demo",
+    "Password": "demo123",
+    "Active": false,
+    "Plan": "TRIAL",
+    "Expires": "2026-08-31"
+    "MaxMachines": 1,
+    "Machines": [],
+    "Notes": "Dubai client"
   }
   {
-    "username": "2MR",
-    "password": "2MR@123",
-    "active": true,
-    "expires": "2026-08-31"
+    "Username": "2MR",
+    "Password": "2MR@123",
+    "Active": true,
+    "Plan": "TRIAL",
+    "Expires": "2026-08-31"
+    "MaxMachines": 1,
+    "Machines": [],
+    "Notes": "Dubai client"
   },
   {
     "Username": "Admin",
