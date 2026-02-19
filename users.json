@@ -2,7 +2,7 @@
   {
     "Username": "admin",
     "Password": "Mohdshah@123",
-    "Active": true,
+    "Active": false,
     "Plan": "PRO",
     "Expires": "3030-01-01",
     "MaxMachines": 1,
