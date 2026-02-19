@@ -58,15 +58,5 @@
     "MaxMachines": 1,
     "Machines": [],
     "Notes": "Dubai client"
-  },
-  {
-    "Username": "Admin",
-    "Password": "MohdShah@12345",
-    "Active": true,
-    "Plan": "PRO",
-    "Expires": "2050-12-31",
-    "MaxMachines": 1,
-    "Machines": [],
-    "Notes": "Dubai client"
   }
 ]
