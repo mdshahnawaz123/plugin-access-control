@@ -62,7 +62,7 @@
   {
     "Username": "2MR",
     "Password": "2MR@123",
-    "Active": fasle,
+    "Active": false,
     "Plan": "TRIAL",
     "Expires": "2026-08-31",
     "MaxMachines": 10,
