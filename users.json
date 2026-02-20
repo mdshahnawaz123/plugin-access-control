@@ -5,7 +5,17 @@
     "Active": true,
     "Plan": "PRO",
     "Expires": "3030-01-01",
-    "MaxMachines": 1,
+    "MaxMachines": 3,
+    "Machines": [],
+    "Notes": "Dubai client"
+  },
+  {
+    "Username": "ECDABS",
+    "Password": "ECDABS",
+    "Active": true,
+    "Plan": "TRIAL",
+    "Expires": "2027-01-01",
+    "MaxMachines": 100,
     "Machines": [],
     "Notes": "Dubai client"
   },
@@ -55,7 +65,7 @@
     "Active": true,
     "Plan": "TRIAL",
     "Expires": "2026-08-31",
-    "MaxMachines": 1,
+    "MaxMachines": 10,
     "Machines": [],
     "Notes": "Dubai client"
   }
