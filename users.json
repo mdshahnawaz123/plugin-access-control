@@ -2,7 +2,7 @@
   {
     "Username": "admin",
     "Password": "Mohdshah@123",
-    "Active": true,
+    "Active": false,
     "Plan": "PRO",
     "Expires": "3030-01-01",
     "MaxMachines": 3,
@@ -12,7 +12,7 @@
   {
     "Username": "ECDABS",
     "Password": "ECDABS",
-    "Active": true,
+    "Active": false,
     "Plan": "TRIAL",
     "Expires": "2027-01-01",
     "MaxMachines": 100,
@@ -42,7 +42,7 @@
   {
     "Username": "SSH",
     "Password": "SSH@123",
-    "Active": true,
+    "Active": false,
     "Plan": "TRIAL",
     "Expires": "2026-08-31",
     "MaxMachines": 5,
@@ -62,7 +62,7 @@
   {
     "Username": "2MR",
     "Password": "2MR@123",
-    "Active": true,
+    "Active": false,
     "Plan": "TRIAL",
     "Expires": "2026-08-31",
     "MaxMachines": 10,
