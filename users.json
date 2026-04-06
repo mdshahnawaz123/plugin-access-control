@@ -22,10 +22,10 @@
   {
     "Username": "test",
     "Password": "test123",
-    "Active": false,
+    "Active": true,
     "Plan": "TRIAL",
-    "Expires": "2025-08-31",
-    "MaxMachines": 1,
+    "Expires": "2027-08-31",
+    "MaxMachines": 100,
     "Machines": [],
     "Notes": "Dubai client"
   },
