@@ -12,7 +12,7 @@
   {
     "Username": "ECDABS",
     "Password": "ECDABS",
-    "Active": false,
+    "Active": true,
     "Plan": "TRIAL",
     "Expires": "2027-01-01",
     "MaxMachines": 100,
